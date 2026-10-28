@@ -1,0 +1,3 @@
+pytest
+pandas==2.2.3
+evidently
