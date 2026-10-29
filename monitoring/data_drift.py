@@ -20,7 +20,7 @@ result = report.run(
     current_data=current
 )
 
-result.save_html("monitoring/drift_report.html")
+result.save_html("monitoring/reports/drift_report.html")
 
 print("Data drift monitoring completed.")
-print("Report saved to monitoring/drift_report.html")
+print("Report saved to monitoring/reports/drift_report.html")
